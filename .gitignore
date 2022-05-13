@@ -1,2 +1,3 @@
 # ignore the template file
-template.html
+.git
+.vscode

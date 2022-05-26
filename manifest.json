@@ -11,7 +11,18 @@
   "start_url": "/",
   "theme_color": "#3e3e3e",
   "categories": [],
-  "screenshots": [],
+  "screenshots": [
+    {
+          "src": "https://xdagee.github.io/assets/images/thumbnail.index.png",
+          "type": "image/png",
+          "sizes": "1200x625"
+        },
+        {
+          "src": "https://xdagee.github.io/assets/images/thumbnail.about.png",
+          "type": "image/jpg",
+          "sizes": "1212x962"
+        }
+  ],
   "icons": [
     {
       "src": "https://xdagee.github.io/assets/images/maskable_icon_x48.png",

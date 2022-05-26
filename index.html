@@ -8,6 +8,8 @@
     <meta content="Prince Boateng Asare" property="title" />
     <!-- Canonical SEO -->
     <link rel="canonical" href="https://kowofa.me" />
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
     <!--  Social tags      -->
     <meta name="keywords"
         content="software, developer, engineer, software engineer, software developer, systems analysis and design, design, portfolio, resume, cv, prince, boateng, asare, Prince Boateng Asare, Accra, Ghana, System Analyst, Prince Gee, InnoCentGee, kowofa, web, mobile, web developer, mobile developer, Gee" />
@@ -56,6 +58,13 @@
             n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n
                 .className += t + "touch")
         }(window, document);
+    </script>
+
+    <!-- Service Worker -->
+    <script type="module">
+       import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+       const el = document.createElement('pwa-update');
+       document.body.appendChild(el);
     </script>
     <!-- Favicon -->
     <link href="assets/images/logo-32x.webp" rel="shortcut icon" type="image/x-icon" />

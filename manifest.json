@@ -31,8 +31,8 @@
     {
       "src": "https://xdagee.github.io/assets/images/logo-512x.webp",
       "sizes": "512x512",
-      "type": "image/x-icon",
-    }
+      "type": "image/x-icon"
+    },
   ],
   "shortcuts": []
 }

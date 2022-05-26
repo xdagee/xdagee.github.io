@@ -6,7 +6,7 @@
   "name": "kowofa",
   "orientation": "any",
   "scope": "/",
-  "lang":"en",
+  "lang":"en-US",
   "short_name": "kowofa",
   "start_url": "/",
   "theme_color": "#3e3e3e",
@@ -14,24 +14,24 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "https://xdagee.github.io/assets/images/logo-192x.webp",
+      "src": "https://xdagee.github.io/assets/images/logo.kowofa@1.5x.192.png",
       "sizes": "192x192",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
-      "src": "https://xdagee.github.io/assets/images/logo-256x.webp",
+      "src": "https://xdagee.github.io/assets/images/logo.kowofa@1.5x.256.png",
       "sizes": "256x256",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
-      "src": "https://xdagee.github.io/assets/images/logo-384x.webp",
+      "src": "https://xdagee.github.io/assets/images/logo.kowofa@1.5x.384.png",
       "sizes": "384x384",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
-      "src": "https://xdagee.github.io/assets/images/logo-512x.webp",
+      "src": "https://xdagee.github.io/assets/images/logo.kowofa@1.5x.512.png",
       "sizes": "512x512",
-      "type": "image/x-icon"
+      "type": "image/png"
     }
   ],
   "shortcuts": []

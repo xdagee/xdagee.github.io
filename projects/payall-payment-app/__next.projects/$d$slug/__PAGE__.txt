@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[6241,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js","/_next/static/chunks/1607ff79c5c9ba41.js"],"ProjectDetail"]
+4:I[64176,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T772,<pre class="shiki github-dark" style="background-color:#24292e;color:#e1e4e8" tabindex="0"><code><span class="line"><span style="color:#6A737D">// Core User Stories</span></span>
+<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> userJourney</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span></span>
+<span class="line"><span style="color:#9ECBFF">  "Find a Shop nearby"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">  "Identify shop proximity"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">  "Find an Item"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">  "Compare prices"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#9ECBFF">  "Pay for Item"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">];</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D">// Design Principles</span></span>
+<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> principles</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
+<span class="line"><span style="color:#E1E4E8">  efficiency: </span><span style="color:#9ECBFF">"quickly pay for items"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">  convenience: </span><span style="color:#9ECBFF">"pay at any local shop"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">  lessHustle: </span><span style="color:#9ECBFF">"one app to rule them all"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">};</span></span></code></pre>0:{"buildId":"k-RyqAnAubXY3-abOOEu7","rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"payall-payment-app","highlightedCodeHtml":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/1607ff79c5c9ba41.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

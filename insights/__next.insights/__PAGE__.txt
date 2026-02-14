@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[89675,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js","/_next/static/chunks/8a3c1fdba5d82e3b.js"],"InsightsHeader"]
+3:I[18583,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js","/_next/static/chunks/8a3c1fdba5d82e3b.js"],"ArticleCard"]
+4:I[64176,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"k-RyqAnAubXY3-abOOEu7","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"pt-24 pb-16","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 lg:px-8","children":[["$","$L2",null,{}],["$","div",null,{"className":"mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-3","children":[["$","$L3","architecture-of-dual-personality",{"post":{"slug":"architecture-of-dual-personality","title":"The Architecture of a Dual Personality","date":"2026-02-06","excerpt":"How I designed a portfolio that speaks two languages: Executive Strategy and Technical Precision.","category":"Design Systems"},"index":0}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/8a3c1fdba5d82e3b.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[9855,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js"],"ThemeSync"]
+3:I[81152,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js"],"CockpitProvider"]
+4:I[78735,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js"],"Header"]
+5:I[77661,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"default"]
+6:I[63556,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"default"]
+7:I[38638,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js","/_next/static/chunks/3828af1d2c779586.js"],"default"]
+8:I[75192,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js"],"Footer"]
+9:I[72455,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js"],"Terminal"]
+b:I[64176,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:I[64176,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"ViewportBoundary"]
+10:I[64176,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"MetadataBoundary"]
+12:I[30193,[],"default"]
+:HL["/_next/static/chunks/c562c979f6791c44.css","style"]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"k-RyqAnAubXY3-abOOEu7","c":["","insights","architecture-of-dual-personality"],"q":"","i":false,"f":[[["",{"children":["insights",{"children":[["slug","architecture-of-dual-personality","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/c562c979f6791c44.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2380af22b92d6ab4.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/09ae7e40e1540da9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Prince Boateng Asare\",\"jobTitle\":\"AI UI/UX Specialist\",\"description\":\"Creative Directing Reformer specializing in systematic problem-solving and clean architecture.\",\"url\":\"https://xdagee.github.io/\",\"sameAs\":[\"https://github.com/xdagee\",\"https://linkedin.com/in/princeboatengasare\"]}"}}]}],["$","body",null,{"className":"inter_fe8b9d92-module__LINzvG__variable jetbrains_mono_8dec50e9-module__V6cRDq__variable font-sans antialiased bg-white dark:bg-neutral-950 text-neutral-900 dark:text-white transition-colors duration-300","children":[["$","$L2",null,{}],["$","$L3",null,{"children":[["$","$L4",null,{}],["$","main",null,{"id":"main-content","className":"min-h-screen","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{}],["$","$L9",null,{}]]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$La",[["$","script","script-0",{"src":"/_next/static/chunks/14b6efbcbf825685.js","async":true,"nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L11"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$12",[]],"S":true}
+13:I[61491,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js","/_next/static/chunks/14b6efbcbf825685.js"],"ArticleHeader"]
+14:T5ec,<p>When I set out to build my portfolio, I faced a common dilemma for senior engineers: <strong>Who am I optimizing for?</strong></p>
+<p>Recruiters want measurable outcomes, ROI, and leadership signals. They want the "Executive" view.<br>
+Fellow engineers want to see code, architecture decisions, and "the metal". They want the "Technical" view.</p>
+<h2>The Solution: Mode Switching</h2>
+<p>Instead of compromising, I decided to build both. Using <strong>Next.js</strong> and <strong>Tailwind CSS variables</strong>, I created a global state machine managed by <code>zustand</code> that toggles the entire application's personality.</p>
+<h3>The Code</h3>
+<p>It starts with a simple hook:</p>
+<pre><code class="language-typescript">// src/store/personality.ts
+export const usePersonalityStore = create&#x3C;PersonalityState>()(
+    persist(
+        (set, get) => ({
+            mode: 'EXECUTIVE',
+            toggleMode: () => {
+                const newMode = get().mode === 'EXECUTIVE' ? 'TECHNICAL' : 'EXECUTIVE';
+                set({ mode: newMode });
+            },
+        }),
+        // ... middleware
+    )
+);
+</code></pre>
+<p>This single pivot point drives everything: typestyles, color tokens, and even the content itself.</p>
+<h2>Why This Matters</h2>
+<p>This isn't just a gimmick. it's a demonstration of <strong>empathy for the user</strong>. By asking "who are you?", I can serve the <em>exact</em> information you need, without noise. That is the essence of good product engineering.</p>
+a:["$","article",null,{"className":"pt-24 pb-16","children":["$","div",null,{"className":"max-w-3xl mx-auto px-6 lg:px-8","children":[["$","$L13",null,{"title":"The Architecture of a Dual Personality","date":"2026-02-06","category":"Design Systems"}],["$","div",null,{"className":"mt-8 prose prose-lg dark:prose-invert prose-neutral max-w-none    prose-headings:font-bold prose-headings:tracking-tight   prose-a:text-primary hover:prose-a:text-secondary    prose-code:text-primary prose-code:bg-neutral-100 dark:prose-code:bg-neutral-900 prose-code:px-1 prose-code:rounded   prose-img:rounded-2xl","dangerouslySetInnerHTML":{"__html":"$14"}}]]}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1"}]]
+15:I[52215,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"IconMark"]
+d:null
+11:[["$","title","0",{"children":"The Architecture of a Dual Personality | Prince Boateng Asare | Prince Boateng Asare"}],["$","meta","1",{"name":"description","content":"How I designed a portfolio that speaks two languages: Executive Strategy and Technical Precision."}],["$","meta","2",{"name":"author","content":"Prince Boateng Asare"}],["$","meta","3",{"name":"keywords","content":"software developer,web development,TypeScript,React,Next.js,portfolio"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Prince Boateng Asare | Creative Directing Reformer"}],["$","meta","6",{"property":"og:description","content":"Organizing chaos into logic. Delivering results through precision."}],["$","meta","7",{"property":"og:site_name","content":"Prince Boateng Asare Portfolio"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Prince Boateng Asare | Creative Directing Reformer"}],["$","meta","12",{"name":"twitter:description","content":"Organizing chaos into logic. Delivering results through precision."}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","14",{}]]

@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[61491,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js","/_next/static/chunks/14b6efbcbf825685.js"],"ArticleHeader"]
+4:I[64176,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T5ec,<p>When I set out to build my portfolio, I faced a common dilemma for senior engineers: <strong>Who am I optimizing for?</strong></p>
+<p>Recruiters want measurable outcomes, ROI, and leadership signals. They want the "Executive" view.<br>
+Fellow engineers want to see code, architecture decisions, and "the metal". They want the "Technical" view.</p>
+<h2>The Solution: Mode Switching</h2>
+<p>Instead of compromising, I decided to build both. Using <strong>Next.js</strong> and <strong>Tailwind CSS variables</strong>, I created a global state machine managed by <code>zustand</code> that toggles the entire application's personality.</p>
+<h3>The Code</h3>
+<p>It starts with a simple hook:</p>
+<pre><code class="language-typescript">// src/store/personality.ts
+export const usePersonalityStore = create&#x3C;PersonalityState>()(
+    persist(
+        (set, get) => ({
+            mode: 'EXECUTIVE',
+            toggleMode: () => {
+                const newMode = get().mode === 'EXECUTIVE' ? 'TECHNICAL' : 'EXECUTIVE';
+                set({ mode: newMode });
+            },
+        }),
+        // ... middleware
+    )
+);
+</code></pre>
+<p>This single pivot point drives everything: typestyles, color tokens, and even the content itself.</p>
+<h2>Why This Matters</h2>
+<p>This isn't just a gimmick. it's a demonstration of <strong>empathy for the user</strong>. By asking "who are you?", I can serve the <em>exact</em> information you need, without noise. That is the essence of good product engineering.</p>
+0:{"buildId":"k-RyqAnAubXY3-abOOEu7","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"pt-24 pb-16","children":["$","div",null,{"className":"max-w-3xl mx-auto px-6 lg:px-8","children":[["$","$L2",null,{"title":"The Architecture of a Dual Personality","date":"2026-02-06","category":"Design Systems"}],["$","div",null,{"className":"mt-8 prose prose-lg dark:prose-invert prose-neutral max-w-none    prose-headings:font-bold prose-headings:tracking-tight   prose-a:text-primary hover:prose-a:text-secondary    prose-code:text-primary prose-code:bg-neutral-100 dark:prose-code:bg-neutral-900 prose-code:px-1 prose-code:rounded   prose-img:rounded-2xl","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/14b6efbcbf825685.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

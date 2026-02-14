@@ -1,0 +1,18 @@
+1:"$Sreact.fragment"
+2:I[6241,["/_next/static/chunks/2380af22b92d6ab4.js","/_next/static/chunks/09ae7e40e1540da9.js","/_next/static/chunks/1607ff79c5c9ba41.js"],"ProjectDetail"]
+4:I[64176,["/_next/static/chunks/8bc0325a278e9a1d.js","/_next/static/chunks/88c242a9fb3fb9dc.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T776,<pre class="shiki github-dark" style="background-color:#24292e;color:#e1e4e8" tabindex="0"><code><span class="line"><span style="color:#6A737D">// User Research Insights</span></span>
+<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> problemSpace</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
+<span class="line"><span style="color:#E1E4E8">  mistrust: </span><span style="color:#9ECBFF">"buyers &#x26; suppliers disconnected"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">  accessibility: </span><span style="color:#9ECBFF">"equal access to open market"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">  fairness: </span><span style="color:#9ECBFF">"trade on fair deal required"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">};</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D">// Solution Impact</span></span>
+<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> results</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
+<span class="line"><span style="color:#E1E4E8">  ctaConversion: </span><span style="color:#9ECBFF">"100%"</span><span style="color:#E1E4E8">, </span><span style="color:#6A737D">// POST button</span></span>
+<span class="line"><span style="color:#E1E4E8">  accessibilityScore: </span><span style="color:#9ECBFF">"AAA+"</span><span style="color:#E1E4E8">, </span><span style="color:#6A737D">// WebAIM</span></span>
+<span class="line"><span style="color:#E1E4E8">  userAgreeability: </span><span style="color:#9ECBFF">"80%"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">};</span></span></code></pre>0:{"buildId":"k-RyqAnAubXY3-abOOEu7","rsc":["$","$1","c",{"children":[["$","$L2",null,{"slug":"rawsrc-commodities-marketplace","highlightedCodeHtml":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/1607ff79c5c9ba41.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
